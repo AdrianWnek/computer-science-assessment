@@ -1,0 +1,37 @@
+~NOTE - tinyArray
+
+1. It took long to run the fucntion for Append, and results show that it reached 76μs
+2. in the second result for Insert it took 34.3 μs to run the function
+
+Results: show that Append is the highest scale from Inster which is 76μs
+
+
+~NOTE - smallArray
+
+1. It took long to run the fucntion for Append, and results show that it reached 9.7μs
+2. in the second result for Insert it took 18.4 μs to run the function
+
+Results show that Insert is the highest scale from Append which is 18.4μs
+
+
+~NOTE - mediumArray
+
+1. It took long to run the fucntion for Append, and results show that it reached 57.1μs
+2. in the second result for Insert it took 212.1μs to run the function
+
+Results show that Insert is the highest scale from Append which is 212.1μs
+
+
+~NOTE - largeArray
+
+1. It took long to run the fucntion for Append, and results show that it reached 327.5μs
+2. in the second result for Insert it took 8.004 ms to run the function
+
+Results show that Append is the highest scale from Insert which is 327.5μs
+
+
+~NOTE - extraLargeArray
+1. It took long to run the fucntion for Append, and results show that it reached 2.6537ms
+2. in the second result for Insert it took 932.0634 to run the function
+
+Results show that Insert is the highest scale from Append which is 212.1μs
